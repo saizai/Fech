@@ -17,7 +17,7 @@ GEM
     fastercsv (1.5.5)
     mocha (0.9.12)
     people (0.2.1)
-    rake (0.8.7)
+    rake (13.0.1)
     rdoc (3.9.2)
     rspec (2.99.0)
       rspec-core (~> 2.99.0)
